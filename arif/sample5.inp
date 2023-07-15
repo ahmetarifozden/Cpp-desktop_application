@@ -1,0 +1,5 @@
+A = 6
+B = 2
+C = A+B
+D = B*A+B*C
+OUT D
