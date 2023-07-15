@@ -76,7 +76,7 @@ void satirOku(string dosyaYolu, int satirNumarasi, string cikisYolu){
     }
   }
 }
-//
+// 1.
 // void sample1(){
 //   string girisyolu = "inputFolder/Challange1.inp";
 //   string cikisYolu = "outputFolder/Challange1.inp";
